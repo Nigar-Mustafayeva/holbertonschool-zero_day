@@ -1,4 +1,1 @@
-git add .
-git commit -m "Your commit"
-git push
-
+git pull origin main
